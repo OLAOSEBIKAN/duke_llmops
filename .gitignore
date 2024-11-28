@@ -19,7 +19,7 @@
 # Ignore all files with the specified name.
 # Scoped to the 'logs' subfolder and all folders beneath it.
 /logs/**/test.logfile
-RPReplay_Final1729344047.mov
+RPReplay_Final1729344047.mp4
 
 # Ignore all files in the 'logs' subfolder.
 /logs/
